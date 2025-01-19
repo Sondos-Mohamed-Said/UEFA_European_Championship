@@ -38,7 +38,7 @@ This repository contains the Power BI project that visualizes historical data fr
 
 - `UEFA_European_Championship.pbix`: The Power BI file containing the interactive dashboard.  
 - `Data`: Contains website used for building the dashboard.  
-- `Images`: Includes screenshots of the dashboard.  
+- `Dashboard.jpg`: Includes screenshots of the dashboard.  
 
 ---
 
