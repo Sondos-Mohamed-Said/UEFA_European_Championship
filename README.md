@@ -44,7 +44,7 @@ This repository contains the Power BI project that visualizes historical data fr
 
 ## 📸 **Preview**  
 
-![Dashboard Screenshot](./Images/UEFA_Dashboard_Screenshot.jpg)  
+![Dashboard Screenshot](./Dashboard.jpg)  
 
 ---
 
